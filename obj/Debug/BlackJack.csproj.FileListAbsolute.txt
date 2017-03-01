@@ -1,0 +1,18 @@
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Ahmed EL-Halawany\Desktop\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Ahmed EL-Halawany\My Files\College\Blackjack Final\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
